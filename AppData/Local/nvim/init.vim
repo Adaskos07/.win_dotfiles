@@ -13,8 +13,8 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'preservim/nerdtree'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'ryanoasis/vim-devicons'
-Plug 'junegunn/fzf', { 'do': './install --all' }
-Plug 'junegunn/fzf.vim'
+"Plug 'junegunn/fzf', { 'do': './install --all' }
+"Plug 'junegunn/fzf.vim'
 
 Plug 'jiangmiao/auto-pairs'
 Plug 'mattn/emmet-vim'
@@ -36,7 +36,7 @@ let mapleader = ","
 set encoding=utf-8
 set nospell
 
-set shell=powershell.exe
+"set shell=powershell.exe
 
 set number
 set relativenumber
